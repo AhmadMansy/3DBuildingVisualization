@@ -18,4 +18,4 @@ For Building to a specific platform
  
  <img width="634" alt="Screen Shot 2021-11-05 at 7 43 34 PM" src="https://user-images.githubusercontent.com/54113248/140556099-ac83cfa8-fb5e-4d57-ac1e-78ed3624f2cc.png">
 
-For apk debug version #android_build
+For apk debug version <tag>android_build</tag>
