@@ -2,7 +2,6 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Globalization;
-using GLTFast;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
@@ -15,7 +14,7 @@ public class MainManager : MonoBehaviour
     [SerializeField] private Text fps;
     [SerializeField] private Transform[] transforms;
     [SerializeField] private List<TransformCopy> cameraTransformCopies;
-    [SerializeField] private GltfAsset GltfObject;
+
     private void Start()
     {
         foreach (var transform1 in transforms)
